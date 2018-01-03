@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.0.1)
+  - RATreeView (2.1.2)
+  - SQLite.swift (0.11.3):
+    - SQLite.swift/standard (= 0.11.3)
+  - SQLite.swift/standard (0.11.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0.1)
+  - RATreeView (~> 2.1.2)
+  - SQLite.swift (~> 0.11.3)
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  RATreeView: 380cde0090cfde21dc6ac29137f49d3b768fdd28
+  SQLite.swift: 99b36c22084427f0abbeb957556ce1528cf10bb3
+
+PODFILE CHECKSUM: ec6b366ad26a72394da90cf45562c35ed6a7b9c1
+
+COCOAPODS: 1.2.1
